@@ -534,21 +534,3 @@ p{color:var(--text-secondary);}
   .scroll-top{right:16px;bottom:16px;width:42px;height:42px;}
 }
 
-/* Very small phones */
-@media (max-width:400px){
-  .container{padding-inline:14px;}
-
-  .hero-header{height:150px;padding:0 14px;}
-  .hero-header img{height:80px;border-radius:14%;}
-  .hero-header .header-caption{font-size:.75rem;letter-spacing:.14em;}
-
-  .team-logo-section{margin-top:-52px;}
-  .team-logo-frame{width:160px;height:180px;border-radius:0 28px 0 28px;}
-  .team-logo-frame img{border-radius:0 25px 0 25px;}
-
-  .gallery{grid-template-columns:1fr;}
-  .gallery-item img{height:190px;}
-
-  .footer-social a{width:46px;height:46px;}
-  .footer-social a svg{width:20px;height:20px;}
-}
