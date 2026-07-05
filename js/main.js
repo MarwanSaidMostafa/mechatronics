@@ -27,7 +27,7 @@ const TRANSLATIONS = {
   en: {
     nav_intro: "Introduction", nav_mechanical: "Mechanical", nav_electronics: "Electronics",
     nav_software: "Software", nav_video: "Demo", nav_team: "Team",
-    header_caption: "Graduation Project · 2026",
+    header_caption: "Graduation Project 2026",
     profile_role_title: "Team Leader", profile_role_dept: "R&D",
     hero_eyebrow: "Mecha Vision Team",
     hero_title: "Submarine Live Monitoring",
@@ -53,7 +53,7 @@ const TRANSLATIONS = {
   ar: {
     nav_intro: "مقدمة", nav_mechanical: "ميكانيكا", nav_electronics: "إلكترونيات",
     nav_software: "برمجيات", nav_video: "العرض", nav_team: "الفريق",
-    header_caption: "مشروع تخرج · ٢٠٢٦",
+    header_caption: "مشروع تخرج ٢٠٢٦",
     profile_role_title: "قائد الفريق", profile_role_dept: "البحث والتطوير",
     hero_eyebrow: "فريق ميكا فيجن",
     hero_title: "غواصة الرصد الحي الذكية",
