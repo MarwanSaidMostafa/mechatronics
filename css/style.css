@@ -542,9 +542,9 @@ p{color:var(--text-secondary);}
   .hero-header img{height:80px;border-radius:14%;}
   .hero-header .header-caption{font-size:.75rem;letter-spacing:.14em;}
 
-  .team-logo-frame{width:96px;height:96px;border-radius:0 22px 0 22px;}
-  .team-logo-frame img{border-radius:0 19px 0 19px;}
-  .team-logo-section{margin-top:-42px;}
+  .team-logo-section{margin-top:-52px;}
+  .team-logo-frame{width:160px;height:180px;border-radius:0 28px 0 28px;}
+  .team-logo-frame img{border-radius:0 25px 0 25px;}
 
   .gallery{grid-template-columns:1fr;}
   .gallery-item img{height:190px;}
