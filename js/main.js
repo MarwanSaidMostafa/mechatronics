@@ -25,6 +25,7 @@ const ROLE_TRANSLATIONS = {
 
 const TRANSLATIONS = {
   en: {
+    rnd:"Team Leader / R&D",
     nav_intro: "Introduction", nav_mechanical: "Mechanical", nav_electronics: "Electronics",
     nav_software: "Software", nav_video: "Demo", nav_team: "Team",
     header_caption: "Graduation Project 2026",
@@ -51,6 +52,7 @@ const TRANSLATIONS = {
     preloader_text: "INITIALIZING SYSTEMS…"
   },
   ar: {
+    rnd:"قائد فريق & البحث و التطوير",
     nav_intro: "مقدمة", nav_mechanical: "ميكانيكا", nav_electronics: "إلكترونيات",
     nav_software: "برمجيات", nav_video: "العرض", nav_team: "الفريق",
     header_caption: "مشروع تخرج ٢٠٢٦",
